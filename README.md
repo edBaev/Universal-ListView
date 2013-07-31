@@ -1,6 +1,6 @@
 Universal-ListView
 ==================
 
-actionbar-pull to refresh
-Swipe-to-dismiss
-sticky listview
+actionbar-pull to refresh\n
+Swipe-to-dismiss\n
+sticky listview\n
